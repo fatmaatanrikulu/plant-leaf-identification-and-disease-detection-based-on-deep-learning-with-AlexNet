@@ -1,2 +1,2 @@
 # plant-leaf-identification-and-disease-detection-based-on-deep-learning-with-AlexNet
-This is Plant Leaf Identification and Disease Detection Application with AlexNet Deep Learning Method
+This is Plant Leaf Identification and Disease Detection Application with AlexNet Deep Learning Method. We used AlexNet to identify Plant Leaf firstly among the 4 types of plants leaves. After identification of plant leaf we detected if it is healthy or diseased. In the second phase if the leaf is diseased we used AlexNet to identify the disease of the leaf. We trained 1 model in the first phase and 4 model in the second phase. 
